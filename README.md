@@ -1,1 +1,1 @@
-[View the PDF]([https://github.com/0XAl3aref/Python-Basics/blob/main/python.pdf](https://github.com/0XAl3aref/Python-Basics/blob/main/python.pdf))
+[python.pdf](https://github.com/user-attachments/files/17356534/python.pdf)
